@@ -3,7 +3,6 @@ package com.epam.mjc;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-import java.util.StringTokenizer;
 
 public class StringSplitter {
 
